@@ -9,7 +9,7 @@
 <table>
 <tr>
   
-<td width="300%" valign="top">
+<td width="300" valign="top">
 <h3>Windows</h3>
   
 ・2022/2025OS展開<br>
@@ -17,13 +17,13 @@
 ・Edge更新<br>
 </td>
 
-<td width="300%" valign="top">
+<td width="300" valign="top">
 <h3>Linux</h3>
   
 ・kubuntu学習中<br>
 </td>
 
-<td width="300%" valign="top">
+<td width="300" valign="top">
 <h3>開発</h3>
 ・Java学習中
 </td>
