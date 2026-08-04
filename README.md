@@ -9,7 +9,7 @@
 <table width="100%">
 <tr>
   
-<td width+"33%" valign="top">
+<td width="33%" valign="top">
 <h3>Windows</h3>
   
 2022/2025OS展開<br>
@@ -30,7 +30,7 @@ Javaを学習中
 </td>
 
 </tr>
-<table>
+</table>
   
 # 【経歴】
   
