@@ -9,22 +9,24 @@
 <table>
 <tr>
 <td width+"50%" valign="top">
-##Windows<br>
+## Windows<br>
 2022/2025OS展開<br>
 パッチ適用<br>
 edge更新<br>
 </td>
 <td width="50%" valign="top">
-##Linux<br>
+## Linux<br>
 ほぼ趣味で学習中<br>
 ・kubuntu<br>
 ・Tails<br>
 </td>
 </tr>
 <table>
-
-■開発
+## ■開発
 趣味でJavaを学習中
+</td>
+</tr>
+<table>
 
 
 【経歴】
