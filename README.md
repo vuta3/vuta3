@@ -20,13 +20,12 @@
 <td width="33%" valign="top">
 <h3>Linux</h3>
   
-学習中<br>
-・kubuntu<br>
+・kubuntu学習中<br>
 </td>
 
 <td width="33%" valign="top">
 <h3>開発</h3>
-・Javaを学習中
+・Java学習中
 </td>
 
 </tr>
