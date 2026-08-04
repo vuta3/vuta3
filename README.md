@@ -20,13 +20,13 @@ edge更新<br>
 <td width="33%" valign="top">
 <h3>Linux</h3>
   
-趣味で学習中<br>
+学習中<br>
 ・kubuntu<br>
 </td>
 
 <td width="33%" valign="top">
 <h3>開発</h3>
-趣味でJavaを学習中
+Javaを学習中
 </td>
 
 </tr>
