@@ -1,24 +1,24 @@
-#【プロフィール】
+#【プロフィール】<br>
 名前:豚さん（vuta3）<br>
 職歴:2026年4月~<br>
 分野:インフラエンジニア<br>
 言語:ShellScript
 
-【スキル】
+#【スキル】
 
 <table>
 <tr>
 <td width+"50%" valign="top">
-■Windows
-2022/2025OS展開
-パッチ適用　edge更新
+##Windows<br>
+2022/2025OS展開<br>
+パッチ適用<br>
+edge更新<br>
 </td>
 <td width="50%" valign="top">
-■Linux
-ほぼ趣味で学習中
-・kubuntu
-・talis
-・kali linax
+##Linux<br>
+ほぼ趣味で学習中<br>
+・kubuntu<br>
+・Tails<br>
 </td>
 </tr>
 <table>
