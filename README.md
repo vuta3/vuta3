@@ -9,27 +9,27 @@
 <table>
 <tr>
 <td width+"50%" valign="top">
-## Windows<br>
+<h3>Windows</h3><br>
 2022/2025OS展開<br>
 パッチ適用<br>
 edge更新<br>
 </td>
 <td width="50%" valign="top">
-## Linux<br>
+<h3>Linux</h3><br>
 ほぼ趣味で学習中<br>
 ・kubuntu<br>
 ・Tails<br>
 </td>
 </tr>
 <table>
-## ■開発
+<h3>開発</h3>
 趣味でJavaを学習中
 </td>
 </tr>
 <table>
 
 
-【経歴】
+# 【経歴】
 ■金融系でのサーバ構築案件（2026年4月~現在）
 ・WindowsServer2022/WindowsServer2025の構築と展開
 ・OSパラメータシートの作成と確認（設計資料に基づく設定値の反映）
