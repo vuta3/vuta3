@@ -8,23 +8,28 @@
 
 <table>
 <tr>
-<td width+"50%" valign="top">
-<h3>Windows</h3><br>
+  
+<td width+"33%" valign="top">
+<h3>Windows</h3>
+  
 2022/2025OS展開<br>
 パッチ適用<br>
 edge更新<br>
 </td>
-<td width="50%" valign="top">
-<h3>Linux</h3><br>
+
+<td width="33%" valign="top">
+<h3>Linux</h3>
+  
 ほぼ趣味で学習中<br>
 ・kubuntu<br>
 ・Tails<br>
 </td>
-</tr>
-<table>
+
+<td width="33%" valign="top">
 <h3>開発</h3>
 趣味でJavaを学習中
 </td>
+
 </tr>
 <table>
 
