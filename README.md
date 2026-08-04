@@ -12,9 +12,9 @@
 <td width="33%" valign="top">
 <h3>Windows</h3>
   
-2022/2025OS展開<br>
-パッチ適用<br>
-edge更新<br>
+・2022/2025OS展開<br>
+・パッチ適用<br>
+・Edge更新<br>
 </td>
 
 <td width="33%" valign="top">
@@ -26,7 +26,7 @@ edge更新<br>
 
 <td width="33%" valign="top">
 <h3>開発</h3>
-Javaを学習中
+・Javaを学習中
 </td>
 
 </tr>
