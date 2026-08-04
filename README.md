@@ -20,9 +20,8 @@ edge更新<br>
 <td width="33%" valign="top">
 <h3>Linux</h3>
   
-ほぼ趣味で学習中<br>
+趣味で学習中<br>
 ・kubuntu<br>
-・Tails<br>
 </td>
 
 <td width="33%" valign="top">
@@ -34,9 +33,6 @@ edge更新<br>
 <table>
   
 # 【経歴】
-
-<table width="100%">
-<tr>
   
 <h3>■金融系でのサーバ構築案件（2026年4月~現在）</h3>
 ・WindowsServer2022/WindowsServer2025の構築と展開<br>
@@ -45,6 +41,3 @@ edge更新<br>
 ・オフライン環境における更新プログラムの調査・適用<br>
 ・MicrosoftEdgeforBusinessのバージョン調査・更新<br>
 ・BGinfo適用<br>
-
-</tr>
-<table>
